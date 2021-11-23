@@ -1,9 +1,11 @@
 <p align="center">
-<img src="https://github.com/PR0FESS0R-99/DonLee-Robot-V2/blob/main/DONLEE-ROBOT-V2/DonLee_Robot.jpg" alt="Eva Maria Logo">
+  <img src="assets/logo.jpg" alt="JESICCA">
 </p>
-
+<h1 align="center">
+  <b>EVOLET</b>
+</h1>
 <p align="center">
-🤖 𝐃𝐎𝐍 𝐋𝐄𝐄 𝐑𝐎𝐁𝐎𝐓 𝐕𝟐 🤖
+JESICCA
 </p>
 
 <p align="center">
