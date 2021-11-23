@@ -80,7 +80,7 @@ Click on the Help Button or <a href="https://telegram.dog/Donlee_Robot">/help</a
 ↪️ 𝐃𝐄𝐏𝐋𝐎𝐘 𝐓𝐎 𝐇𝐄𝐑𝐎𝐊𝐔 ↩️
 </p>
 
-[![Jesicca](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ARJUN-PRADEEP-123/Jesicca/edit/main/README.md)
+[![Jesicca](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ARJUN-PRADEEP-123/jesicca-bot)
 ----
 
 <p align="center">
