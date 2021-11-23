@@ -86,7 +86,7 @@ async def start(bot, message):
               InlineKeyboardButton(CHANNEL, url=CHANNEL_LINK)
               ],[
               InlineKeyboardButton('ℹ️ Help', callback_data='help'),
-              InlineKeyboardButton('😊 About', callback_data='about')
+              InlineKeyboardButton(' About', callback_data='about')
               ]]
         ),
         parse_mode="html",
@@ -142,7 +142,7 @@ async def about(bot, message):
                              ),
                          InlineKeyboardButton
                              (
-                                 "Dev 🤠", callback_data="devmuhammed"
+                                 "Dev 🤠", callback_data="Arjun"
                              )
                     ],
                     [
@@ -181,13 +181,13 @@ async def sub(bot, message):
                     [
                          InlineKeyboardButton
                              (
-                                 "😟 Build a New Bot 😟", url="https://youtu.be/NrbMc93aCzA"
+                                 "🔰JOIN CHANNEL🔰", url="https://t.me/Movies_Centre_Main"
                              )
                     ],
                     [
                          InlineKeyboardButton
                              (
-                                 "💥Subscribe youtube Channel💥", url="https://www.youtube.com/c/MoTech_YT"
+                                 "🔰JOIN GROUP🔰", url="https://t.me/movies_centre_garage_lux"
                              )
                     ],
                     [
