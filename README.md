@@ -2,7 +2,7 @@
   <img src="assets/logo.jpg" alt="JESICCA">
 </p>
 <h1 align="center">
-  <b>EVOLET</b>
+  <b>JESICCA</b>
 </h1>
 <p align="center">
 JESICCA
